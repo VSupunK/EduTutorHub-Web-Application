@@ -1,0 +1,6 @@
+.home {
+    background: linear-gradient(to right, #883d81bf, #4415ca99), url("../assets/Home_background.png") no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }

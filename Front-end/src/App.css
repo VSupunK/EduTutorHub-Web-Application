@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 
 * {
   margin: 0;
@@ -7,9 +9,4 @@
   font-family: "Roboto", sans-serif;
 }
 
-body {
-  background: linear-gradient(to right, rgba(136, 61, 129, 0.75), rgba(68, 21, 202, 0.6)), url("./assets/Home_background.png") no-repeat;
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh;
-}
+
