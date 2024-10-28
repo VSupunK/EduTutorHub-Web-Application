@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.nav-item {
+    @apply px-3 py-1 hover:text-white hover:bg-[#883D81] hover:drop-shadow-xl rounded-md transition duration-100 ease-in-out cursor-pointer;
+  }
+
+.active {
+    @apply text-black bg-primary
+}
+
