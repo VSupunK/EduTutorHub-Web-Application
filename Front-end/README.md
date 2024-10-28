@@ -23,7 +23,7 @@ EduTutorHub is built with a modern frontend stack aimed at delivering an intuiti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EduTutorHub.git
+   git clone https://github.com/VSupunK/EduTutorHub-Web-Application
    ```
 2. Navigate to the project directory:
    ```bash
